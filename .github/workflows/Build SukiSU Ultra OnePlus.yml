@@ -47,7 +47,7 @@ on:
         type: string
         description: "分支名/自定义版本标识"
         required: false
-        default: "Qi_Serein/susfs-main"
+        default: "susfs-main/Qi_Serein"
       BUILD_TIME:
         type: string
         description: "自定义构建时间 (输入F使用当前时间)"
