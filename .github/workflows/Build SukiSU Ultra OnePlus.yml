@@ -82,7 +82,7 @@ on:
         type: boolean
         description: "是否添加更多ZRAM算法？"
         required: true
-        default: true
+        default: false
 
 jobs:
   build:
